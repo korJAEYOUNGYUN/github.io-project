@@ -65,8 +65,8 @@ params:
             adminLabel:
 
         utterances:
-            repo: "https://github.com/korJAEYOUNGYUN/github.io-comments"
-            issueTerm: pathname
+            repo: "korJAEYOUNGYUN/github.io-comments"
+            issueTerm: "title"
             label:
 
         remark42:
