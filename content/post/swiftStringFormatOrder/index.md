@@ -1,7 +1,7 @@
 ---
 title: "StringFormat 순서 바꾸기"
 date: 2021-12-30T01:23:29+09:00
-description: "String format 순서"
+description: "String format의 인자들의 순서를 상황에 맞게 조절하는 법"
 draft: false
 tags: [
   "iOS",

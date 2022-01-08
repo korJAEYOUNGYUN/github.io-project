@@ -39,11 +39,11 @@ params:
 
     sidebar:
         emoji:
-        subtitle:
+        subtitle: "#iOS Developer"
         avatar:
             enabled: true
             local: true
-            src: img/profile.jpg
+            src: img/my.jpeg
 
     article:
         math: false
