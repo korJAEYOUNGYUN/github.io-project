@@ -2,8 +2,8 @@
 title: "Riiid에서의 수습기간 회고"
 date: 2022-07-02T20:53:18+09:00
 description: "새로운 환경에서 느낀 점들"
-tags: ["Riiid", "회고"]
-categories: ["회고"]
+tags: ["Riiid", "뤼이드", "수습기간", "회고"]
+categories: ["수습기간", "회고"]
 draft: false
 ---
 
